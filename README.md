@@ -1,6 +1,6 @@
 # MobileTron_Demo
-##ArduinoUno
-the PLC simularor<br>
+MobileTron_PLC<br>
+the PLC simularor in Arduino Uno<br>
 sending data via UART<br>
 
 Data format<br>
